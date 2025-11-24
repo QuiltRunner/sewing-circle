@@ -3,6 +3,7 @@
 System info displays, logos, and custom module configurations for Fastfetch.
 
 ## Files
+
 - `config.jsonc`
 - Custom ASCII / Unicode logos
 - Experimental configs
