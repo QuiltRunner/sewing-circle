@@ -1,10 +1,10 @@
-# 🎨 Dotfiles & Theme Collection 🎨
+# Dotfiles & Theme Collection
 
 Welcome to my personal dotfiles and theme collection. This repository serves as a
 centralized home for the configurations, themes, scripts, and visual assets I use
 across my linux systems. It's equal parts practical toolkit and creative sandbox. 
 
-## 🔍 What You'll Find Here
+## What You'll Find Here
 
 This repo includes a varierty of configurations for my daily linux environments, including
 but not limited to:
@@ -16,7 +16,7 @@ but not limited to:
 
 Everything here reflects the way I like to build my systems. 
 
-## 🖳 Systems I Use
+## Systems I Use
 
 These configs come from several active machines and distros, including:
 - **Fedora + KDE Plasma (x86_64)**
@@ -25,7 +25,7 @@ These configs come from several active machines and distros, including:
 
 Not every config applies everywhere, the README will evolve as I organize per-system folders and notes.
 
-## 📎 Structure
+## Structure
 
 A full breakdown will grow as the repo fills out, but expect a similar structure to: 
 ```
@@ -50,7 +50,7 @@ scripts/
 
 Folders will get README notes as needed.
 
-## 🤝 Contributing & Feedback
+## Contributing & Feedback
 
 I'm always open to suggestions and tips (whether its performance improvements, better ways to
 organize configs, or new aesthetic ideas). 
