@@ -67,3 +67,13 @@ I care about the work I put in here and I'm constantly learning. Constructive fe
 
 These dotfiles represent a mix of utility, expermentation, and self-expression. I treat them like digital art (practical,
 flexible, and always evolving). Thanks for taking a look! 
+
+
+![License: MIT](https://img.shields.io/badge/License-MIT-cba6f7?style=flat)
+![Desktop: KDE Plasma](https://img.shields.io/badge/Desktop-KDE%20Plasma-89b4fa?logo=kde&style=flat)
+![OS: EndeavourOS](https://img.shields.io/badge/OS-EndeavourOS-b4befe?logo=arch-linux&style=flat)
+![OS: Fedora](https://img.shields.io/badge/OS-Fedora-94e2d5?logo=fedora&style=flat)
+![Theme: Pastel Vaporwave](https://img.shields.io/badge/Theme-Pastel%20Vaporwave-f5c2e7?style=flat)
+![Theme: F1](https://img.shields.io/badge/Theme-F1-f38ba8?style=flat)
+![Theme: Tarot & Occult](https://img.shields.io/badge/Theme-Tarot%20%26%20Occult-cba6f7?style=flat)
+![Theme: 80s EAS Horror](https://img.shields.io/badge/Theme-80s%20EAS%20Horror-eba0ac?style=flat)
