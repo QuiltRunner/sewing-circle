@@ -3,6 +3,7 @@
 Kvantum themes (.kvconfig and .svg) used across KDE Plasma setups.
 
 ## Files
+
 - Theme SVGs
 - `.kvconfig` configuration files
 - Custom color tweaks
