@@ -3,6 +3,7 @@
 This folder holds Starship prompt configuration files. 
 
 ## Files
+
 - `starship.toml` - Main prompt settings
 - Additional module configs, if used
 
