@@ -1,0 +1,36 @@
+# ========================================
+# Windows 5.8 System Info Starship Prompt
+# ========================================
+
+format = """
+[┌─────────────── 🖥️ WINDOWS 5.8 SYSTEM](white)
+[│ DIR: $directory](white)
+[│ DEVICES: 💾 A:\\\\ READY   📵 DIAL-UP. . . CONNECTED](white)
+[│ HELPERS: 📎 Clippy ENABLED   🛡️ Norton 1337 Threats](white)
+[└>](white) $character"""
+
+add_newline = true
+
+# ========== Directory ==========
+# The directory module shows the path to your current directory,
+# truncated to three parent folders. The directory will also be
+# truncated to the root of the git repo you're currently in.
+
+[directory]
+format = "[📁 $path](white)"
+truncation_length = 3
+
+# ========== Character ==========
+# The character module shows a character (usually an arrow) beside
+# where the text is entered in your terminal.
+# 
+# The character will tell you whether the last command was successful
+# or not. It can do this in two ways:
+# 
+# - changing colors (red / green)
+# - changing shape (> / X)
+
+[character]
+success_symbol = "[C:\\\\>█](white)"
+error_symbol = "[C:\\!!>█](white)"
+vicmd_symbol = "[C:\\\\>█](white)"
