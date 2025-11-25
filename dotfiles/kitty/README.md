@@ -1,6 +1,7 @@
 # Kitty Terminal Configuration
 
 This directory includes configuration files for the Kitty terminal emulator, including: 
+
 - `kitty.conf`
 - Color schemes
 - Custom keymaps
