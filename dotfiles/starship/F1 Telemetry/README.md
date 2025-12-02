@@ -94,10 +94,6 @@ Starship uses style strings such as `green`. `blue`. `bold`, or hex values.
 style = white
 ```
 
-### Content
-
-Modify or remove lines such as "DEVICES," "HELPERS," and rename the banner. 
-
 ## Troubleshooting
 
 ### Prompt Doesn't Load
