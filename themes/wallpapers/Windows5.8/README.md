@@ -2,6 +2,9 @@
 
 This wallpaper is a satrical take on Emergency Alert System aesthetics mixed with 80s terminal screens, ARG-style government notices, and some inside jokes about our dogs.
 
+## Preview
+<img width="1920" height="1080" alt="google-wallpaper" src="https://github.com/user-attachments/assets/29e0c117-2a6c-4941-9d59-0e8d61570ff8" />
+
 ## Visual Style
 
 - EAS broadcast interruption vibes
