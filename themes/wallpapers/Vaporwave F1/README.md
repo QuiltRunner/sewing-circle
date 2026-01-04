@@ -3,6 +3,9 @@
 This wallpaper blends a full vaporwave spectrum (lavenders, pinks, cyans, and neon gradients) with **F1 analytics**, **vintage PCs**, **maximalism**, and **retro-tech energy**.
 It's designed to feel like an F1 engineering desk in a pastel dreamland.
 
+## Preview
+<img width="1920" height="1080" alt="F1 Desktop" src="https://github.com/user-attachments/assets/4efcd1c5-b727-448e-821d-b38f54f3797d" />
+
 ## Visual Style
 
 - Pastel vaporwave with soft neon overlays
