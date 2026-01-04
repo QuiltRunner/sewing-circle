@@ -9,8 +9,11 @@ The configuration uses built-in Starship modules making it portable and stable
 across shells and systems.
 
 ## Preview
-
+### Open Box
 <img width="688" height="331" alt="F1Starship-OpenBox" src="https://github.com/user-attachments/assets/da4890cd-4140-4db8-8176-e3921cf97fc3" />
+
+### Closed Box
+<img width="689" height="292" alt="F1Starship-ClosedBox" src="https://github.com/user-attachments/assets/b28d5c19-6616-4eee-a139-9abe34147afa" />
 
 
 ## Telemetry-Style Metrics
