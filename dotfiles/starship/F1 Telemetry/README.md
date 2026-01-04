@@ -9,19 +9,9 @@ The configuration uses built-in Starship modules making it portable and stable
 across shells and systems.
 
 ## Preview
-```
-┌──────────────────────────┐
-│ 🏁 F1 • TELEMETRY PANEL
-│ CHASSIS: Fedora Linux
-│ CAR #: fedora-x86
-│ TRACK: ~🏆/projects/
-│ ENGINE LOAD: 42%
-│ PIT: 🚥 main ✓
-│ LAP TIME: 113ms
-│ CLOCK: 20:55:10
-└──────────────────────────┘
-➤
-```
+
+<img width="688" height="331" alt="F1Starship-OpenBox" src="https://github.com/user-attachments/assets/da4890cd-4140-4db8-8176-e3921cf97fc3" />
+
 
 ## Telemetry-Style Metrics
 
