@@ -20,7 +20,7 @@ Everything here reflects the way I like to build my systems.
 
 These configs come from several active machines and distros, including:
 - **Fedora + KDE Plasma (x86_64)**
-- **EndeavourOS + KDE Plasma (ThinkPad T460)**
+- **Arch + KDE Plasma (ThinkPad T460)**
 - **MX Linux XFCE (Raspberry Pi 400)**
 
 Not every config applies everywhere, the README will evolve as I organize per-system folders and notes.
@@ -71,7 +71,7 @@ flexible, and always evolving). Thanks for taking a look!
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-cba6f7?style=flat)
 ![Desktop: KDE Plasma](https://img.shields.io/badge/Desktop-KDE%20Plasma-89b4fa?logo=kde&style=flat)
-![OS: EndeavourOS](https://img.shields.io/badge/OS-EndeavourOS-b4befe?logo=arch-linux&style=flat)
+![OS: Arch Linux](https://img.shields.io/badge/OS-Arch%20Linux-74c7ec?style=flat)
 ![OS: Fedora](https://img.shields.io/badge/OS-Fedora-94e2d5?logo=fedora&style=flat)
 ![Theme: Pastel Vaporwave](https://img.shields.io/badge/Theme-Pastel%20Vaporwave-f5c2e7?style=flat)
 ![Theme: F1](https://img.shields.io/badge/Theme-F1-f38ba8?style=flat)
