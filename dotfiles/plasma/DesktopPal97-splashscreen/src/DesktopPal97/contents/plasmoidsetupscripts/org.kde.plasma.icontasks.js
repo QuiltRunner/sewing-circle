@@ -1,0 +1,10 @@
+applet.currentConfigGroup = new Array("General");
+applet.writeConfig("maxStripes","1");
+applet.writeConfig("groupedTaskVisualization","2");
+applet.writeConfig("showOnlyCurrentScreen","true");
+applet.writeConfig("showOnlyCurrentActivity","true");
+applet.writeConfig("showOnlyCurrentDesktop","true");
+applet.writeConfig("wheelSkipMinimized","true");
+applet.writeConfig("iconSpacing","0");
+applet.writeConfig("highlightWindows","false");
+applet.reloadConfig();

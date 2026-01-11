@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="5.2916665mm"
+   height="5.2916665mm"
+   viewBox="0 0 5.2916665 5.2916665"
+   version="1.1"
+   id="svg336"
+   inkscape:version="1.2.2 (1:1.2.2+202212051552+b0a8486541)"
+   sodipodi:docname="switchuser.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview338"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="true"
+     inkscape:zoom="1"
+     inkscape:cx="-9.5"
+     inkscape:cy="13.5"
+     inkscape:window-width="1536"
+     inkscape:window-height="866"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid511" />
+  </sodipodi:namedview>
+  <defs
+     id="defs333" />
+  <g
+     inkscape:label="Réteg 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-61.437355,-96.461838)">
+    <path
+       id="circle1129"
+       style="fill:#000000;fill-opacity:1;stroke-width:9.99998;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+       d="m 64.083191,99.372248 a 2.3812499,2.3812499 0 0 0 -2.38125,2.381252 h 0.79375 a 1.5875,1.5875 0 0 1 1.5875,-1.5875 1.5875,1.5875 0 0 1 1.5875,1.5875 h 0.79375 a 2.3812499,2.3812499 0 0 0 -2.38125,-2.381252 z" />
+    <path
+       id="path1137"
+       style="fill:#000000;fill-opacity:1;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+       d="M 64.083188 96.461838 A 1.3229171 1.3229171 0 0 0 62.760272 97.784755 A 1.3229171 1.3229171 0 0 0 64.083188 99.107671 A 1.3229171 1.3229171 0 0 0 65.406105 97.784755 A 1.3229171 1.3229171 0 0 0 64.083188 96.461838 z M 64.083188 97.255588 A 0.5291667 0.52916986 0 0 1 64.612355 97.784755 A 0.5291667 0.52916986 0 0 1 64.083188 98.313921 A 0.5291667 0.52916986 0 0 1 63.554022 97.784755 A 0.5291667 0.52916986 0 0 1 64.083188 97.255588 z " />
+  </g>
+</svg>
