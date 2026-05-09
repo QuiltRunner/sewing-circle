@@ -58,13 +58,19 @@ Place the Windows 5.8 `starship.toml` file in `~/.config`.
 
 - **Bash**
 
+`nano ~/.bashrc`
+
 `eval "$(starship init bash)"`
 
 - **Zsh**
 
+`nano ~/.zshrc`
+
 `eval "$(starship init zsh)"`
 
 - **Fish**
+
+`nano ~/.config/fish/config.fish`
 
 `starship init fish | source`
 
